@@ -4,3 +4,5 @@
 [DemoShopping.postman_collection](https://github.com/Ilgamova/api/files/15500766/DemoShopping.postman_collection_Liia.Ilgamova.json)
 
 [Коллекция для тестирование SOAP-сервиса](https://www.postman.com/supply-specialist-92891831/workspace/my-workspace/collection/35173000-86dcc530-1a09-4c1d-9ea8-2aa3325e2dbd)
+
+[Тест кейсы для тестирования GET, POST, PUT, PATCH, DELETE](https://github.com/user-attachments/files/15517128/G7-2024-05-31.pdf)
