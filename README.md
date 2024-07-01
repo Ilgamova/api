@@ -1,4 +1,6 @@
 ## Тестирование API  
+Изучены виды API. SOAP и REST; научились работь в Swagger и Postman; написали автотесты и протестировали SOAP-сервис на примере "Интернет-магазина"
+
 [Коллекция "DemoShopping" для Products](https://www.postman.com/supply-specialist-92891831/workspace/my-workspace/folder/35173000-7fc05f60-1a77-4365-bd87-41126e91c89d)
 
 [DemoShopping.postman_collection](https://github.com/Ilgamova/api/files/15500766/DemoShopping.postman_collection_Liia.Ilgamova.json)
